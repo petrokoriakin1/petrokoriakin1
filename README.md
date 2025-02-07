@@ -3,7 +3,7 @@ Hello, I'm Petro aka PK! 👋 I'm a Product Engineer focused on backend, living 
 
 
 ### I prefer to Collaborate via:
-- Email `petro@nwhrhq.fyi`, `Petro.Koriakin@fotofinder.de`
+- Email `petro@nwhrhq.fyi`, `pkoriakin@magnite.com`
 - Receiving 1:1 message on Teams, Slack, Discord, Twitter, or LinkedIn
 - Being tagged in a pull/merge request or issue or epic or any other `work_item`
 

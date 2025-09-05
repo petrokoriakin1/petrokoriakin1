@@ -1,10 +1,10 @@
 # Introduction
-Hello, I'm Petro 👋 I'm a Product Engineer focused on backend, living in Kyiv, Ukraine. Let's chat about `#workwarbalance`, `#neurodiversity`, `#playbacktheatre`, `#predictability`, and `#radicaltransparency`. 📫 Reach me at +380674990373, @ortepko on TG, or [book a call](https://calendly.com/petrokoriakin1/talk-to-petro?back=1&month=2024-08). Anonymous feedback form: [link](https://forms.gle/j9dPdXYgV4qe4o246). I'm feedback-driven and detail-oriented, with a focus on smart workarounds and boring solutions. I value direct, actionable feedback. I specialize in Git, Ruby, and RSpec. I perform in [playback theatre](https://dou.ua/lenta/articles/dou-hobby-playback/) on weekends. I’ve worked with [kottans.org](https://youtube.com/playlist?list=PLEK9H5bICxvoiDKQ7epRpxUDmQotmvsgM). Passionate about ["Go Scrum Yourself"](https://goscrumyourself.carrd.co/), UPMAⓇ, and [ALKOframework](https://gitlab.com/nowhere-inc/tech-ninjas/alkoframework). My favorite sport is squash: commit squashing.
+Hello, I'm Petro 👋 I'm a Product Engineer focused on backend, living in Kyiv, Ukraine. My [LinkedIn is https://www.linkedin.com/in/petrokoriakin1/](https://www.linkedin.com/in/petrokoriakin1/) Let's chat about `#workwarbalance`, `#neurodiversity`, `#playbacktheatre`, `#predictability`, and `#radicaltransparency`. 📫 Reach me at +380674990373, @petrokoriakin1 on TG, or [book a call via Calendly](https://calendly.com/petrokoriakin1/talk-to-petro?back=1&month=2024-08). Anonymous feedback form: [link](https://forms.gle/j9dPdXYgV4qe4o246). I'm feedback-driven and detail-oriented, with a focus on smart workarounds and boring solutions. I value direct, actionable feedback. I specialize in Git, Ruby, and RSpec. I perform in [playback theatre](https://dou.ua/lenta/articles/dou-hobby-playback/) on weekends. I’ve worked with [kottans.org](https://youtube.com/playlist?list=PLEK9H5bICxvoiDKQ7epRpxUDmQotmvsgM). Passionate about ["Go Scrum Yourself"](https://goscrumyourself.carrd.co/), UPMAⓇ, and [ALKOframework](https://gitlab.com/nowhere-inc/tech-ninjas/alkoframework). My favorite sport is squash: commit squashing.
 
 
 ### I prefer to Collaborate via:
-- Email `petro@nwhrhq.fyi`, `pkoriakin@magnite.com`
-- Receiving 1:1 message on Teams, Slack, Discord, Twitter, or LinkedIn
+- Email `petro@nadminix.io`
+- Receiving 1:1 message on Slack, Discord, Twitter, Threads or LinkedIn
 - Being tagged in a pull/merge request or issue or epic or any other `work_item`
 
 ### Some Feedbacks from the Past:

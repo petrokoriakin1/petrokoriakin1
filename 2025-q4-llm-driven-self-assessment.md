@@ -1,4 +1,4 @@
-# URGENT fixes
+# five days to assess predictability fixes and see the improvements
 1. improve predictability by shipping completed features.
 4. enhance team communication through short daily updates 
 

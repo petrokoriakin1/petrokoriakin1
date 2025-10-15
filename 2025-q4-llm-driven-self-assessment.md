@@ -1,3 +1,8 @@
+# URGENT fixes
+1. improve predictability by shipping completed features.
+4. enhance team communication through short daily updates 
+
+
 # reflective and credible LLM-driven  **self-assessment**.
 
 Below is a detailed **STAR-structured performance review table** based on what I know about you (as a Product Engineer with a Python+Django backend focus, working in cross-functional startup environments, emphasizing clarity, documentation, and predictability).
